@@ -1,18 +1,37 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Habit Tracker Using ReactJS
+ 
+## ⭐ Introduction
 
-## Available Scripts
+This is a Habit Tracker  Project which is built using ReactJs, Redux ,CSS, Javascript , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
 
-In the project directory, you can run:
+## Features
+-Add Habit <br/>
+-Each Habit Track Weekly<br/>
 
-### `npm start`
+<br/>
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+## 🔗 Links
+
+> ## Checkout the website link : https://habit-tracker-reactapp.netlify.app/
+
+
+<br/>
+<br/>
+
+## 💻 Screens
+
+### Add Habit
+![Screenshot (304)](https://github.com/ajaykumar2pp/Habit-Tracker-Using-ReactJs/assets/102378038/cccf9921-df5d-40f8-8287-48bdd09de61d)
+
+
+![Screenshot (305)](https://github.com/ajaykumar2pp/Habit-Tracker-Using-ReactJs/assets/102378038/18f99b2b-d553-4ea7-a104-ab39eb2cbe68)
+
 
 ### `npm test`
 
